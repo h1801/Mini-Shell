@@ -54,7 +54,7 @@ To get all the environment variables type <br/>
 printenv <br/>
 
 
-# THE FOLLOWING TYPES OF REDIRECTIONS CAN BE DONE <br/>
+## THE FOLLOWING TYPES OF REDIRECTIONS CAN BE DONE <br/>
 
 ./executablefile < inputfile <br/>
 ./executablefile > outputfile <br/>
